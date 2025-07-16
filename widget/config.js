@@ -1,7 +1,7 @@
 export const CONFIG = {
-  AVIATIONSTACK_API_KEY: "58e8b7b55c9a6afa63e4cabe1c14f9f4",
+  AVIATIONSTACK_API_KEY: "",
   AVIATIONSTACK_BASE_URL: "https://api.aviationstack.com/v1/flights",
-  OPENWEATHER_API_KEY: "d34469173c876dc3e734f40f63a5aa5c",
+  OPENWEATHER_API_KEY: "",
   OPENWEATHER_URL:
     "https://api.openweathermap.org/data/2.5/weather?units=metric&lang=pl&q=",
   AIRLINE_ICON_BASE_URL:
